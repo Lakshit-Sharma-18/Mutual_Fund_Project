@@ -61,11 +61,11 @@
 
 - [X] Validate AMFI codes between fund_master and nav_history.
 
-- [ ] Write short data quality summary.
+- [X] Write short data quality summary.
 
 ## Git
 
-- [ ] Commit changes:
+- [X] Commit changes:
       "Day 1: Data ingestion complete"
 
 ## Deliverables
@@ -76,4 +76,4 @@
 
 - [X] requirements.txt completed.
 
-- [ ] GitHub repository pushed with Day 1 commit.
+- [X] GitHub repository pushed with Day 1 commit.
