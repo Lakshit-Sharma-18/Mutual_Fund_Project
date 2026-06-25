@@ -171,10 +171,10 @@
 
 ## Git
 
-- [ ] Commit changes:
+- [X] Commit changes:
       "Day 2: Cleaned data + SQLite DB loaded"
 
-- [ ] Push changes to GitHub.
+- [X] Push changes to GitHub.
 
 ---
 
