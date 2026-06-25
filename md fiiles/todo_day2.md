@@ -180,14 +180,14 @@
 
 ## Deliverables
 
-- [ ] 10 cleaned CSVs completed.
+- [X] 10 cleaned CSVs completed.
 
-- [ ] bluestock_mf.db completed.
+- [X] bluestock_mf.db completed.
 
-- [ ] schema.sql completed.
+- [X] schema.sql completed.
 
-- [ ] queries.sql completed.
+- [X] queries.sql completed.
 
-- [ ] data_dictionary.md completed.
+- [X] data_dictionary.md completed.
 
-- [ ] GitHub push completed.
+- [X] GitHub push completed.
